@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="humans.apps.steve.actionmode.activities.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="?attr/actionModeCutDrawable"
+        android:title="@string/menu_search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_safe"
+        android:icon="?attr/actionModeCutDrawable"
+        android:title="@string/menu_safe"
+        app:showAsAction="ifRoom" />
+</menu>

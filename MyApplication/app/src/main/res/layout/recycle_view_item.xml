@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:descendantFocusability="blocksDescendants" >
+
+    <ImageView
+        android:id="@+id/file_icon"
+        android:layout_width="@dimen/list_item_thumbnail_size"
+        android:layout_height="@dimen/list_item_thumbnail_size"
+        android:layout_margin="10dp"/>
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="35dp"
+        android:paddingEnd="5dp"
+        android:clickable="false"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_toStartOf="@+id/checkbox"
+        android:orientation="vertical"
+        android:layout_toEndOf="@id/file_icon" >
+
+        <TextView
+            android:id="@+id/file_name"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:ellipsize="middle"
+            android:gravity="center_vertical"
+            android:paddingEnd="15dp"
+            android:singleLine="true"
+            android:textIsSelectable="false"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/file_date"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:paddingBottom="5dp"
+            android:paddingEnd="15dp"
+            android:singleLine="true"
+            android:textIsSelectable="false"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

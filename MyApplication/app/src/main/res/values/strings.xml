@@ -1,0 +1,219 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">File Explorer</string>
+    <string name="paste_name">Choose storage location</string>
+    <string name="menu_title_settings">Settings</string>
+    <string name="menu_title_search">Search</string>
+    <string name="menu_title_clean">Clean</string>
+    <string name="menu_title_about">About</string>
+
+    <string name="quickscan_video">Video</string>
+    <string name="quickscan_image">Image</string>
+    <string name="quickscan_audio">Audio</string>
+    <string name="quickscan_app">Application</string>
+    <string name="quickscan_doc">Documents</string>
+    <string name="quickscan_apk_short">APK</string>
+    <string name="quickscan_other">Other</string>
+
+    <string name="file_category_title">Category</string>
+    <string name="local_storage_title">Local Storage</string>
+    <string name="empty_view_prompt">Empty folder,you may acquire more documents through PC or Internet</string>
+
+    <string name="phone_storage">Internal Storage</string>
+    <string name="sdcard_storage">SD Card</string>
+
+    <string name="root_path">Root Path</string>
+
+    <string name="overview_menu_install_all">Install all</string>
+    <string name="overview_menu_select_more">Select more</string>
+    <string name="overview_menu_sort_by">Sort by</string>
+    <string name="overview_menu_style_list">List style</string>
+    <string name="overview_menu_style_grid">Grid style</string>
+    
+    <string name="menu_sort_type">Sort by</string>
+    <string name="menu_back_home">Back to Home</string>
+    <string name="menu_mkdir">New folder</string>
+    <string name="menu_newfile">New file</string>
+    <string name="menu_storage_status">Storage</string>
+    <string name="file_list_flodermsg">Date:%1$s</string>
+    <string name="file_list_filemsg">Date:%1$s\tSize:%2$s</string>
+    <string name="file_list_storage_msg">Avaliable:%1$s\tTotal:%2$s</string>
+    <string name="display_setting">Display Settings</string>
+    <string name="display_hide_file">Show hidden files</string>
+
+
+    <string name="item_sum_summary">item</string>
+    <string name="item_sum_loading_summary">(Loading...)</string>
+
+
+    <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="toast_fileexplorer_internal_error">An internal error occurred in file explorer!</string>
+    <string name="menu_search">Search</string>
+    <string name="fragment_search_key_hint">Type the key you want to search</string>
+    <string name="fragment_search_location">Search Location:</string>
+    <string name="fragment_search_location_ex">Search Location</string>
+    <string name="fragment_search_type">File Type</string>
+    <string name="fragment_search_result">Search Result</string>
+    <string name="fragment_search_searching">Searching…</string>
+    <string name="fragment_search_noresult">Find nothing</string>
+    <string name="common_text_other">Other</string>
+    <string name="common_text_search">Search</string>
+    <string name="fragment_search_invalid_result">The file is out of date, please check.</string>
+
+    <string name="search_empty">Please enter search item.</string>
+    <string name="search_type_empty">Please select the file type.</string>
+    <string name="dialog_back">Back</string>
+    <string name="set_as">Set as</string>
+    <string name="invalid_char">File name contain invalid char like %s</string>
+    <string name="invalid_char_of_filename"><xliff:g id="SECTION">%s</xliff:g> filesystem\'s file name contain invalid char like <xliff:g id="INVALIDCHAR">%s</xliff:g></string>
+    <string name="invalid_char_of_foldername"><xliff:g id="SECTION">%s</xliff:g> filesystem\'s folder name contain invalid char like <xliff:g id="INVALIDCHAR">%s</xliff:g></string>
+    <string name="title_section_overview">Quick View</string>
+    <string name="title_section_external">SD card</string>
+    <string name="title_section_internal">Phone</string>
+    <string name="title_section_usbdisk">USB Disk</string>
+    <string name="title_section_all">All</string>
+    <string name="title_section_none">None</string>
+    <string name="length_limited">The name up to the max length</string>
+
+
+    <!-- Menu item that creates a new directory/folder at the current location [CHAR LIMIT=24] -->
+    <string name="menu_create_dir">New folder</string>
+    <!-- Menu item that switches view to show documents as a large-format grid of thumbnails [CHAR LIMIT=24] -->
+    <string name="menu_grid">Grid view</string>
+    <!-- Menu item that switches view to show documents as a list [CHAR LIMIT=24] -->
+    <string name="menu_list">List view</string>
+    <!-- Menu item that switches the criteria with which documents are sorted [CHAR LIMIT=24] -->
+    <string name="menu_sort">Sort by</string>
+
+    <!-- Menu item that enters activity to change settings for current root [CHAR LIMIT=24] -->
+    <string name="menu_settings">Storage settings</string>
+
+    <!-- Menu item title that opens the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_open">Open</string>
+    <!-- Menu item title that saves the current document [CHAR LIMIT=24] -->
+    <string name="menu_save">Save</string>
+    <!-- Menu item title that shares the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_share">Share</string>
+    <!-- Menu item title that deletes the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_delete">Delete</string>
+    <!-- Menu item title that selects all documents in the current directory [CHAR LIMIT=24] -->
+    <string name="menu_select_all">Select all</string>
+    <string name="menu_cancel_all">Cancel all</string>
+    <!-- Menu item title that copies the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_copy">Copy to\u2026</string>
+    <!-- Menu item title that moves the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_move">Move to\u2026</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_detail">Details</string>
+    <!-- Menu item title that creates a new window in the activity [CHAR LIMIT=24] -->
+    <string name="menu_new_window">New window</string>
+    <!-- Menu item title that copies the selected documents to clipboard [CHAR LIMIT=24] -->
+    <string name="menu_copy_to_clipboard">Copy</string>
+    <!-- Menu item title that pastes files from the clipboard [CHAR LIMIT=24] -->
+    <string name="menu_paste_from_clipboard">Paste</string>
+
+    <!-- Menu item that reveals internal storage built into the device [CHAR LIMIT=24] -->
+    <string name="menu_advanced_show">Show internal storage</string>
+    <!-- Menu item that hides internal storage built into the device [CHAR LIMIT=24] -->
+    <string name="menu_advanced_hide">Hide internal storage</string>
+
+    <!-- Menu item that reveals the sizes of displayed files [CHAR LIMIT=24] -->
+    <string name="menu_file_size_show">Show file size</string>
+    <!-- Menu item that hides the sizes of displayed files [CHAR LIMIT=24] -->
+    <string name="menu_file_size_hide">Hide file size</string>
+
+    <string name="menu_paste">Paste</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="invalid_char_prompt">You have input invalid character(s).</string>
+    <string name="msg_unable_open_file">The file format is not supported.</string>
+    <string name="msg_unable_share_file">The file share failed.</string>
+    <string name="create_hidden_file">File will be hidden if its name starts with \'.\'.</string>
+    <string name="wait">Please wait\u2026</string>
+    <string name="loading">Loading\u2026</string>
+    <string name="operate_share"> Share</string>
+    <string name="open_as">Open as</string>
+
+    <string name="new_folder">New folder</string>
+    <string name="new_file">New file</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="rename">Rename</string>
+    <string name="done">Done</string>
+    <string name="confirm_rename">Confirm Rename</string>
+    <string name="msg_rename_ext">You are changing the file extension, which may cause the file not to be recognized. Are you sure to do this?</string>
+
+    <!-- this is search_result sample: "1111" result for "xxx filename" -->
+    <string name="search_result">%2$d result(s) for \"%1$s\"</string>
+    <!-- this is already_exists sample: "abcfilename" is already in use -->
+    <string name="already_exists">%1$s is already in use.</string>
+    <!-- this is path_not_exists sample: "mnt/sdcard/notExist" is not exist -->
+    <string name="path_not_exists">%1$s is not exist.</string>
+
+    <!-- error handle -->
+    <string name="copy_deny">No permission to copy.</string>
+    <string name="cut_deny">No permission to cut.</string>
+    <string name="delete_deny">No permission to delete.</string>
+    <string name="insufficient_memory">Insufficient space.</string>
+    <string name="invalid_empty_name">File or folder name cannot be empty.</string>
+    <string name="paste_same_folder">Cannot paste to the same directory.</string>
+    <string name="search_text_empty">Search contents should not be empty.</string>
+    <string name="paste_sub_folder">Cannot paste to subfolder.</string>
+    <string name="operation_fail">Some file operation failed.</string>
+
+    <string name="file_name_too_long">The input name is too long.</string>
+    <string name="paste_fail">Paste failed.</string>
+    <string name="delete_fail">Delete failed.</string>
+    <string name="some_paste_fail">Some paste operations failed.</string>
+    <string name="some_delete_fail">Some delete operations failed.</string>
+    <string name="search_setting_description">Local files and folders</string>
+    <string name="change_mode">Select file or folder</string>
+    <string name="folder_beam_forbidden_title">Can\'t beam folder</string>
+    <string name="folder_beam_forbidden_message">Folder beam is not supported.Please select multiple files to beam.</string>
+    <string name="drm_beam_forbidden_title">Beam forbidden</string>
+    <string name="drm_beam_forbidden_message">DRM(Digital Right Management) protected files can not be beamed.</string>
+
+
+    <string name="sort_by_name">By name</string>
+    <string name="sort_by_type">By type</string>
+    <string name="sort_by_time_desc">By time(desc)</string>
+    <string name="sort_by_time_asc">By time(asc)</string>
+    <string name="sort_by_size_desc">By name(desc)</string>
+    <string name="sort_by_size_asc">By name(asc)</string>
+    <string-array name="sort_type">
+        <item>Name</item>
+        <item>Type</item>
+        <item>Date</item>
+        <item>Size</item>
+    </string-array>
+    <string name="sort_by_asc">Ascending</string>
+    <string name="sort_by_desc">Descending</string>
+
+
+    <string name="pasting">Pasting</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="deleting">Deleting</string>
+    <string name="clearing">Clearing</string>
+    <string name="alert_delete_multiple">These items will be deleted.</string>
+    <string name="alert_delete_single">This item will be deleted.</string>
+    <string name="alert_clear_folder">This folder will be cleared.</string>
+
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="path">Path</string>
+    <string name="size">Size</string>
+    <string name="details">Details</string>
+    <string name="modified_time">Modified</string>
+    <string name="readable">Readable</string>
+    <string name="executable">Executable</string>
+    <string name="writable">Writable</string>
+
+    <string name="file">File</string>
+    <string name="folder">Folder</string>
+
+    <string name="no_valid_file">No valid files , please select correct files!</string>
+</resources>

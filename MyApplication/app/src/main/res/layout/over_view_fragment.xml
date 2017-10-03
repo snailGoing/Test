@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/category_fragment"
+        android:id="@+id/over_view_category"/>
+    <include layout="@layout/common_recycle_view"
+        android:id="@+id/over_view_list"
+        android:visibility="gone"/>
+</FrameLayout>

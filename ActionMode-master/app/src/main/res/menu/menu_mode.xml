@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <!--  Toolbar ActionMode Menu Items  -->
+
+    <item
+        android:id="@+id/action_love"
+        android:icon="@drawable/ic_love"
+        android:orderInCategory="100"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete"
+        android:orderInCategory="100"
+        android:title="@string/delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_copy"
+        android:icon="?attr/actionModeCopyDrawable"
+        android:orderInCategory="100"
+        android:title="@string/copy"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_cut"
+        android:icon="?attr/actionModeCutDrawable"
+        android:orderInCategory="100"
+        android:title="@string/copy"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_select_all"
+        android:orderInCategory="100"
+        android:title="@string/select_all"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_clear_all"
+        android:orderInCategory="100"
+        android:title="@string/clear_all"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_rename"
+        android:orderInCategory="100"
+        android:title="@string/rename"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="@string/share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_set_as"
+        android:orderInCategory="100"
+        android:title="@string/set_as"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_property"
+        android:orderInCategory="100"
+        android:title="@string/properties"
+        app:showAsAction="never" />
+</menu>

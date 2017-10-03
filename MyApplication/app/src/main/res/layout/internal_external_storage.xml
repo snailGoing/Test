@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    >
+    <LinearLayout
+        android:id="@+id/leftbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/rightbar"
+        android:layout_marginStart="25dp"
+        android:orientation="vertical">
+
+        <com.sprd.fileexplore.view.CircleProgressBar
+            android:id="@+id/internal_bar"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            app:progress_text_size="30sp"
+            app:progress_stroke_width="8dp"
+            app:progress_text_color="@color/black"
+            app:progress_start_color="@color/green"
+            app:progress_end_color="@color/green"
+            android:layout_gravity="center_horizontal"
+            app:style="solid_line" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:id="@+id/progress_bar_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:textSize="13sp"
+            android:text="10" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rightbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="25dp"
+        android:orientation="vertical">
+
+        <com.sprd.fileexplore.view.CircleProgressBar
+            android:id="@+id/external_bar"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            app:progress_stroke_width="8dp"
+            app:progress_text_size="30sp"
+            app:progress_text_color="@color/black"
+            app:progress_start_color="@color/tomato"
+            app:progress_end_color="@color/tomato"
+            android:layout_gravity="center_horizontal"
+            app:style="solid_line" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:id="@+id/progress_bar_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:textSize="13sp"
+            android:text="1011" />
+    </LinearLayout>
+</RelativeLayout>

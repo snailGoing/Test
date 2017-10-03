@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_grid_item_height">108dp</dimen>
+    <dimen name="empty_view_padding">28dp</dimen>
+    <dimen name="empty_view_textsize">16sp</dimen>
+    <dimen name="navigator_common_height">45dp</dimen>
+    <dimen name="empty_divider">45dp</dimen>
+    <dimen name="list_item_thumbnail_size">32dp</dimen>
+
+    <dimen name="fragment_search_view_search_option_layout">180dip</dimen>
+    <dimen name="fragment_search_view_search_bar_height">40dip</dimen>
+    <dimen name="fragment_search_view_search_location_height">55dip</dimen>
+    <dimen name="fragment_search_view_search_type_height">70dip</dimen>
+    <dimen name="fragment_search_view_search_location_height_edittext">45dip</dimen>
+
+
+    <dimen name="home_text_size">18sp</dimen>
+    <dimen name="item_min_height">96px</dimen>
+    <dimen name="tab_margin_left">-12dip</dimen>
+    <dimen name="tab_margin_right">0px</dimen>
+    <dimen name="home_btn_padding">20px</dimen>
+
+    <integer name="name_max_length">255</integer>
+
+    <color name="transparent_background">#0000</color>
+</resources>

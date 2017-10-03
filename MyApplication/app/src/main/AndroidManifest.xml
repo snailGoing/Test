@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sprd.fileexplore">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER"/>
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:name=".activity.FileExplorerApplication"
+        >
+        <activity
+            android:name="com.sprd.fileexplore.activity.FileExploreActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/MyActivityTheme"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|screenSize|mcc|mnc|locale"
+            android:resizeableActivity="false"
+            android:alwaysRetainTaskState="true"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+
+        <activity
+            android:name="com.sprd.fileexplore.activity.SettingActivity"
+            android:theme="@style/SettingStyle"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation|screenSize|screenLayout|keyboard|mnc|mcc|locale"
+            android:label="@string/menu_title_settings"
+            android:taskAffinity="com.sprd.fileexplore"
+            android:parentActivityName=".activity.FileExploreActivity"
+            >
+        </activity>
+        <activity android:name=".activity.FilePasteActivity"
+            android:theme="@style/FileExplorPasteTheme"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboardHidden|screenSize|mcc|mnc|locale"
+            android:resizeableActivity="false"
+            android:taskAffinity="com.sprd.fileexplore"
+            android:parentActivityName=".activity.FileExploreActivity"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+                <category android:name="android.intent.category.OPENABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="audio/*" />
+                <data android:mimeType="image/*" />
+                <data android:mimeType="video/*" />
+                <data android:mimeType="text/x-vCalendar" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.RINGTONE_PICKER"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter>
+                <action android:name="android.intent.action.SET_WALLPAPER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SET_SPREAD_WALLPAPER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.COPY_PASTE"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.CUT_PASTE"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.sprd.fileexplore.activity.FileSearchActivity"
+            android:configChanges="orientation|screenSize|screenLayout|keyboard|mnc|mcc"
+            android:label="@string/menu_search"
+            android:theme="@style/FileSearchMaterialThemeNewui"
+            android:taskAffinity="com.sprd.fileexplore"
+            android:parentActivityName=".activity.FileExploreActivity"
+             >
+        </activity>
+        <activity
+            android:name="com.sprd.fileexplore.activity.FileSearchResultActivity"
+            android:configChanges="orientation|screenSize|screenLayout|keyboard|mnc|mcc"
+            android:label="@string/fragment_search_result"
+            android:parentActivityName=".activity.FileSearchActivity"
+            android:theme="@style/FileSearchResultMaterialTheme"
+             >
+        </activity>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.sprd.fileexplore.fileProvider"
+            android:grantUriPermissions="true"
+            android:exported="false">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths"/>
+        </provider>
+        <service android:name=".service.FileManageService">
+
+        </service>
+    </application>
+
+</manifest>

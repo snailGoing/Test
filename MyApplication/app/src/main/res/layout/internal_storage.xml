@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent">
+    <com.sprd.fileexplore.view.CircleProgressBar
+        android:id="@+id/internal_storage_bar"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        app:progress_text_size="30sp"
+        app:progress_stroke_width="8dp"
+        app:progress_text_color="@color/black"
+        app:progress_start_color="@color/green"
+        app:progress_end_color="@color/green"
+        app:style="solid_line" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <TextView
+        android:id="@+id/progress_bar_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/black"
+        android:text="1011" />
+
+</LinearLayout>

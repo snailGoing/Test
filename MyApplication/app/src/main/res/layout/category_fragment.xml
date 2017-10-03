@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/quickscan_background"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.sprd.fileexplore.view.ImageViewText
+                android:id="@+id/quickscan_audio_layout"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/main_grid_item_height"
+                android:layout_weight="1"
+                app:image="@drawable/quickscan_audio_selector"
+                app:text="@string/quickscan_audio"/>
+
+            <com.sprd.fileexplore.view.ImageViewText
+                android:id="@+id/quickscan_image_layout"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/main_grid_item_height"
+                android:layout_weight="1"
+                app:image="@drawable/quickscan_image_selector"
+                app:text="@string/quickscan_image"/>
+
+            <com.sprd.fileexplore.view.ImageViewText
+                android:id="@+id/quickscan_video_layout"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/main_grid_item_height"
+                android:layout_weight="1"
+                app:image="@drawable/quickscan_video_selector"
+                app:text="@string/quickscan_video"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.sprd.fileexplore.view.ImageViewText
+                android:id="@+id/quickscan_doc_layout"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/main_grid_item_height"
+                android:layout_weight="1"
+                app:image="@drawable/quickscan_doc_selector"
+                app:text="@string/quickscan_doc"/>
+
+            <com.sprd.fileexplore.view.ImageViewText
+                android:id="@+id/quickscan_apk_layout"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/main_grid_item_height"
+                android:layout_weight="1"
+                app:image="@drawable/quickscan_apk_selector"
+                app:text="@string/quickscan_app"/>
+
+            <View
+                android:id="@+id/empty_view"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/main_grid_item_height"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/progress_bar_internal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:visibility="invisible"
+        android:layout_height="@dimen/empty_divider"
+        />
+    <include layout="@layout/internal_storage"
+        android:visibility="visible"
+        android:id="@+id/internal_pro_bar"/>
+    <include layout="@layout/internal_external_storage"
+        android:visibility="gone"
+        android:id="@+id/internal_external_bar"/>
+
+</LinearLayout>

@@ -1,0 +1,78 @@
+<resources>
+    <style name="MyActivityTheme"  parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/statusbar_primary_color</item>
+        <item name="colorPrimaryDark">@color/statusbar_background_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--  It should be true otherwise action mode will not overlay toolbar -->
+        <item name="windowActionModeOverlay">true</item>
+        <!--  For Custom Action Mode Background Color/Drawable -->
+        <!--<item name="actionModeBackground">@color/dimgray</item>-->
+        <item name="actionModeBackground">@color/statusbar_primary_color</item>
+        <!--<item name="actionModeCloseDrawable">@mipmap/ic_launcher</item>-->
+
+        <!-- Action Bar or ActionMode pop menu theme Styles -->
+        <item name="actionBarPopupTheme">@style/AppTheme.PopupOverlay</item>
+
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/statusbar_primary_color</item>
+        <item name="colorPrimaryDark">@color/statusbar_background_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionModeBackground">@color/statusbar_background_color</item>
+        <item name="actionModeBackground">@color/statusbar_background_color</item>
+    </style>
+    <style name="EmptyViewStyle">
+        <item name="android:drawableTop">@mipmap/file_empty</item>
+        <item name="android:paddingLeft">@dimen/empty_view_padding</item>
+        <item name="android:paddingRight">@dimen/empty_view_padding</item>
+        <item name="android:textSize">@dimen/empty_view_textsize</item>
+        <item name="android:textColor">@color/empty_textview_color</item>
+        <item name="android:text">@string/empty_view_prompt</item>
+    </style>
+    <style name="SettingStyle">
+        <item name="android:statusBarColor">@color/statusbar_background_color</item>
+        <item name="android:colorPrimary">@color/statusbar_primary_color</item>
+    </style>
+
+    <style name="ContactLSearchStyleNewUI" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/newui_edittext</item>
+    </style>
+    <style name="FileSearchMaterialThemeNewui" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:textSize">18sp</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:statusBarColor">@color/statusbar_background_color</item>
+        <item name="android:colorPrimary">@color/statusbar_primary_color</item>
+    </style>
+
+    <style name="FileSearchResultMaterialTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">18sp</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/statusbar_primary_color</item>
+        <item name="colorPrimaryDark">@color/statusbar_background_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionModeBackground">@color/statusbar_primary_color</item>
+    </style>
+
+    <style name="FileExplorPasteTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:actionMenuTextColor">@color/ab_opmenu_text_color</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:statusBarColor">@color/statusbar_background_color</item>
+        <item name="android:colorPrimary">@color/statusbar_primary_color</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@mipmap/ab_background</item>
+        <item name="android:textColor">@color/action_bar_text_color</item>
+        <item name="android:titleTextStyle">@style/ActionBarTitleStyle</item>
+    </style>
+
+    <style name="ActionBarTitleStyle" parent="@android:style/TextAppearance.Material.Large">
+        <item name="android:textColor">@color/action_bar_text_color</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

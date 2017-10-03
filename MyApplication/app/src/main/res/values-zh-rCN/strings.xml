@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">文件管理器</string>
+    <string name="paste_name">选择存储位置</string>
+    <string name="menu_title_settings">设置</string>
+    <string name="file_category_title">分类文件</string>
+    <string name="local_storage_title">存储位置</string>
+    <string name="item_sum_summary">项</string>
+    <string name="quickscan_video">视频</string>
+    <string name="quickscan_image">图片</string>
+    <string name="quickscan_audio">音乐</string>
+    <string name="quickscan_app">应用</string>
+    <string name="quickscan_doc">文档</string>
+
+    <string name="empty_view_prompt">Empty folder,you may acquire more documents through PC or Internet</string>
+    <string name="phone_storage">内部存储</string>
+    <string name="sdcard_storage">SD卡存储</string>
+
+    <string name="root_path">根目录</string>
+    <string name="overview_menu_install_all">全部安装</string>
+    <string name="overview_menu_select_more">选择多个</string>
+    <string name="overview_menu_sort_by">排序方式</string>
+    <string name="menu_sort_type">排序方式</string>
+    <string name="menu_back_home">返回</string>
+    <string name="menu_mkdir">新建文件夹</string>
+    <string name="menu_newfile">新建文件</string>
+    <string name="menu_storage_status">存储状态</string>
+    <string name="file_list_flodermsg">日期:%1$s</string>
+    <string name="file_list_filemsg">日期:%1$s\t大小:%2$s</string>
+    <string name="item_sum_loading_summary">(正在加载...)</string>
+    <string name="file_list_storage_msg">可用:%1$s\t总计:%2$s</string>
+    <string name="display_setting">显示设置</string>
+    <string name="display_hide_file">显示隐藏文件</string>
+
+    <string name="open_as">打开为</string>
+    <!-- Menu item title that shares the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_share">分享</string>
+    <!-- Menu item title that deletes the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_delete">删除</string>
+    <!-- Menu item title that selects all documents in the current directory [CHAR LIMIT=24] -->
+    <string name="menu_select_all">全部选择</string>
+    <string name="menu_cancel_all">全部取消</string>
+    <!-- Menu item title that copies the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_copy">复制到\u2026</string>
+    <!-- Menu item title that moves the selected documents [CHAR LIMIT=24] -->
+    <string name="menu_move">移动到\u2026</string>
+    <string name="menu_clear">清空</string>
+    <string name="menu_rename">重命名</string>
+    <string name="menu_detail">属性</string>
+    <string name="menu_paste">粘贴</string>
+    <string name="menu_cancel">取消</string>
+
+    <string name="pasting">正在粘贴</string>
+    <string name="loading">正在加载\u2026</string>
+    <string name="delete">删除</string>
+    <string name="clear">清空</string>
+    <string name="clearing">正在清空</string>
+    <string name="deleting">正在删除</string>
+    <string name="alert_delete_multiple">这些项将被删除.</string>
+    <string name="alert_delete_single">这项将被删除.</string>
+    <string name="no_valid_file">没有有效的文件，请选择有效的文件!</string>
+
+    <string name="msg_unable_open_file">系统中没有相关的应用可以打开该文件.</string>
+
+</resources>
