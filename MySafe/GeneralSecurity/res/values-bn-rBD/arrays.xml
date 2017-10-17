@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"স্ক্রীমের উজ্বলতা"</item>
+<item>"অপেক্ষারত স্ক্রীন"</item>
+<item>"ওয়াই-ফাই"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"কম্পন এবং স্পর্শ করলে মনে করানো"</item>
+<item>কম্পন</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"স্ক্রীমের উজ্বলতা"</item>
+<item>"অপেক্ষারত স্ক্রীন"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"Wi-Fi হটস্পট"</item>
+<item>"কম্পন এবং স্পর্শ করলে মনে করানো"</item>
+<item>"ডেটা কানেকশন"</item>
+<item>"স্বয়ংক্রিয় সিংক্রোনাইজেশন"</item>
+<item>কম্পন</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"স্ক্রীমের উজ্বলতা"</item>
+<item>"অপেক্ষারত স্ক্রীন"</item>
+<item>"WLAN"</item>
+<item>"ডেটা কানেকশন"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"স্বয়ংক্রিয় সিংক্রোনাইজেশন"</item>
+<item>"Wi-Fi হটস্পট"</item>
+<item>"কম্পন এবং স্পর্শ করলে মনে করানো"</item>
+<item>বিমান মোড</item>
+<item>কম্পন</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"পরিবর্তন করবেন?"</item>
+<item>"স্বয়ংক্রিয় সিংক বন্ধ করে দিলে কিছু অ্যাপ নিজে থেকে ডেটা সিংক করতে পারবে না,পরিবর্তন করবেন?"</item>
+</string-array>
+</resources>

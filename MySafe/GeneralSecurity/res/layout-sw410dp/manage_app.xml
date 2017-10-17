@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="?android:attr/dividerHorizontal"
+    android:showDividers="middle"
+    android:dividerPadding="0dip">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#EAEAEA"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#EAEAEA"
+            android:layout_weight="3"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            >
+            <!--<TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/network_control_software"
+                android:layout_gravity="center"
+                android:textColor="#676767"
+                android:paddingLeft="15dp"
+                android:paddingRight="5dp"
+                android:textSize="15sp"
+                android:maxEms="6"
+                android:maxLines="1"
+                android:ellipsize="end"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/network_sorderbydata"
+                android:layout_gravity="center"
+                android:textColor="#676767"
+                android:textSize="15sp"
+                android:maxEms="6"
+                android:maxLines="1"
+                android:ellipsize="middle"
+                />-->
+            <Spinner
+                android:id="@+id/flow_rank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:entries="@array/flow_rank"
+                android:layout_gravity="center"
+                android:paddingLeft="10dp"
+                android:textColor="#676767"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="7"
+            android:layout_gravity="center"
+            >
+            <CheckBox
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:id="@+id/checkBoxAllSim1"
+                android:button="@null"
+                android:background="@drawable/df_sim_background"
+                />
+            <CheckBox
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:id="@+id/checkBoxAllWIFI"
+                android:button="@null"
+                android:background="@drawable/df_wifi_background"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <FrameLayout android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1">
+
+        <ListView android:id="@android:id/list"
+            android:drawSelectorOnTop="false"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:layout_gravity="left|center_vertical"
+            android:layout_below="@android:id/empty"
+            android:layout_toEndOf="@android:id/empty" />
+
+    </FrameLayout>
+
+
+
+</LinearLayout>

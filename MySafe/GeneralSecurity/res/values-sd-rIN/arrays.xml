@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"اسڪرين جي روشني"</item>
+<item>"متبادل اسڪرين"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"بلُو ٽٿ"</item>
+<item>"ڇهڻ تي ٿرٿراهٽ ڪري ۽ ياد ڏياري"</item>
+<item>" ٿرٿراهٽ "</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"اسڪرين جي روشني"</item>
+<item>"متبادل اسڪرين"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"بلُو ٽٿ"</item>
+<item>"Wi-Fi جو هاٽ اسپاٽ"</item>
+<item>"ڇهڻ تي ٿرٿراهٽ ڪري ۽ ياد ڏياري"</item>
+<item>"ڊيٽا جو ڪنيڪشن"</item>
+<item>"پاڻمرادو سلهاڙ"</item>
+<item>" ٿرٿراهٽ "</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"اسڪرين جي روشني"</item>
+<item>"متبادل اسڪرين"</item>
+<item>"WLAN"</item>
+<item>"ڊيٽا جو ڪنيڪشن"</item>
+<item>"GPS"</item>
+<item>"بلُو ٽٿ"</item>
+<item>"پاڻمرادو سلهاڙ"</item>
+<item>"Wi-Fi جو هاٽ اسپاٽ"</item>
+<item>"ڇهڻ تي ٿرٿراهٽ ڪري ۽ ياد ڏياري"</item>
+<item>" جهاز ۾ موجودگي جو طرز"</item>
+<item>" ٿرٿراهٽ "</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"سوئچ ٿا ڪرڻ چاهيو"</item>
+<item>"پاڻمرادو سلهاڙ کي بند ڪرڻ سان ڊيٽا جي پاڻمرادو سلهاڙ لاءِ ڪجهه اطلاق ناڪام ٿي ويندا، سوئچ ڪرڻ چاهيندا؟"</item>
+</string-array>
+</resources>

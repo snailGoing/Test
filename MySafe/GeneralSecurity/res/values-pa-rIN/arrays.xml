@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ"</item>
+<item>"ਸਟੈਂਡਬਾਇ ਸਕ੍ਰੀਨ"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>ਬਲੂਟੂਥ</item>
+<item>"ਛੋਹਣ ਤੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਅਤੇ ਰੀਮਾਈਂਡ"</item>
+<item>"ਵਾਈਬ੍ਰੇਸ਼ਨ"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ"</item>
+<item>"ਸਟੈਂਡਬਾਇ ਸਕ੍ਰੀਨ"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>ਬਲੂਟੂਥ</item>
+<item>"Wi-Fi ਹੌਟਸਪੌਟ"</item>
+<item>"ਛੋਹਣ ਤੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਅਤੇ ਰੀਮਾਈਂਡ"</item>
+<item>"ਡੇਟਾ ਕਨੈਕਸ਼ਨ"</item>
+<item>"ਆਟੋਮੈਟਿਕ ਸਿੰਕ੍ਰੋਨਾਈਜ਼ੇਸ਼ਨ"</item>
+<item>"ਵਾਈਬ੍ਰੇਸ਼ਨ"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ"</item>
+<item>"ਸਟੈਂਡਬਾਇ ਸਕ੍ਰੀਨ"</item>
+<item>"WLAN"</item>
+<item>"ਡੇਟਾ ਕਨੈਕਸ਼ਨ"</item>
+<item>"GPS"</item>
+<item>ਬਲੂਟੂਥ</item>
+<item>"ਆਟੋਮੈਟਿਕ ਸਿੰਕ੍ਰੋਨਾਈਜ਼ੇਸ਼ਨ"</item>
+<item>"Wi-Fi ਹੌਟਸਪੌਟ"</item>
+<item>"ਛੋਹਣ ਤੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਅਤੇ ਰੀਮਾਈਂਡ"</item>
+<item>ਹਵਾਈ ਜਹਾਜ਼ ਮੋਡ</item>
+<item>"ਵਾਈਬ੍ਰੇਸ਼ਨ"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ਕੀ ਬਦਲਣਾ ਹੈ?"</item>
+<item>"ਆਟੋਮੈਟਿਕ ਸਿੰਕ ਬੰਦ ਕਰਨ ਨਾਲ ਕੁਝ ਐਪਾਂ ਆਪਣੇ ਆਪ ਡੇਟਾ ਸਿੰਕ ਕਰਨ ਨੂੰ ਫੇਲ ਕਰ ਦੇਣਗੀਆਂ, ਕੀ ਬਦਲਣਾ ਹੈ?"</item>
+</string-array>
+</resources>

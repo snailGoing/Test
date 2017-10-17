@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"स्क्रिननि गोजोंथि"</item>
+<item>"स्टेनबाइ स्क्रिन"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"ब्लुटुथ"</item>
+<item>"थुनाय समाव मावग्लुंनाय आरो गोसोखांहोनाय"</item>
+<item>"भाइब्रेशन"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"स्क्रिननि गोजोंथि"</item>
+<item>"स्टेनबाइ स्क्रिन"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्लुटुथ"</item>
+<item>"Wi-Fi हटस्पट"</item>
+<item>"थुनाय समाव मावग्लुंनाय आरो गोसोखांहोनाय"</item>
+<item>"डेता फोनांजाबनाय"</item>
+<item>"गावनो गाव हारसिङै साइक्रनाइजेसन जानाय"</item>
+<item>"भाइब्रेशन"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"स्क्रिननि गोजोंथि"</item>
+<item>"स्टेनबाइ स्क्रिन"</item>
+<item>"WLAN"</item>
+<item>"डेता फोनांजाबनाय"</item>
+<item>"GPS"</item>
+<item>"ब्लुटुथ"</item>
+<item>"गावनो गाव हारसिङै साइक्रनाइजेसन जानाय"</item>
+<item>"Wi-Fi हटस्पट"</item>
+<item>"थुनाय समाव मावग्लुंनाय आरो गोसोखांहोनाय"</item>
+<item>"बिरखं मड"</item>
+<item>"भाइब्रेशन"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"सुइस होनो?"</item>
+<item>"गावनो गाव हारसिङै साइन जानायखौ बन्द\' खालामनाया खायसे एपफोरखौ गावनो गाव साइन जानाय, सुइसखौ फेलें खालामना होगोन?"</item>
+</string-array>
+</resources>

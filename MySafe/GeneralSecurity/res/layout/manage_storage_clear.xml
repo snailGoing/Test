@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="@color/black"
+        android:layout_weight="8"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/score_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/storage_size"
+            android:textColor="@android:color/white"
+            android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+            android:textSize="48sp"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/score_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="1dp"
+                android:text="@string/score_label"
+                android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"/>
+            <TextView
+                android:id="@+id/file_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="1dp"
+                android:text="@string/rubbish_file"
+                android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+        <ListView
+            android:id="@+id/internal_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:dividerHeight="8dp"
+            android:layout_gravity="top|center"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/clear_bt"
+        android:layout_width="280dp"
+        android:layout_height="44dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom = "24dp"
+        android:gravity="center"
+        android:background="@drawable/shape_clearbtn"
+        android:text="@string/clean_memory_button"
+        android:textSize="16sp"/>
+</LinearLayout>

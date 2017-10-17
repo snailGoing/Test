@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/memory_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="10dp">
+
+    <TextView
+        android:id="@+id/gs_per_used"
+        style="@style/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:singleLine="true"
+        android:text="@string/gs_per_used" />
+
+    <TextView
+        android:id="@+id/can_rubbish_ram"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:gravity="center"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/start_memory_button"
+        android:layout_width="152dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/shape"
+        android:gravity="center"
+        android:text="@string/start_memory_button"
+        android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+        android:textColor="@color/white" />
+
+</LinearLayout>

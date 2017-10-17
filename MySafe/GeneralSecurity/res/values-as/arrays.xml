@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"স্ক্ৰীণৰ উজ্জ্বলতা"</item>
+<item>"ষ্টেণ্ডবাই স্ক্ৰীণ"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"স্পৰ্শ কৰিলে কম্পন হ\'ব আৰু মনত পেলাই দিব"</item>
+<item>"ভাইব্ৰেশ্যন"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"স্ক্ৰীণৰ উজ্জ্বলতা"</item>
+<item>"ষ্টেণ্ডবাই স্ক্ৰীণ"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"Wi-Fi হটস্পট"</item>
+<item>"স্পৰ্শ কৰিলে কম্পন হ\'ব আৰু মনত পেলাই দিব"</item>
+<item>"ডাটা সংযোগটো"</item>
+<item>"স্বয়ংক্ৰিয় ছিনক্ৰ\'নাইজেছন"</item>
+<item>"ভাইব্ৰেশ্যন"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"স্ক্ৰীণৰ উজ্জ্বলতা"</item>
+<item>"ষ্টেণ্ডবাই স্ক্ৰীণ"</item>
+<item>"WLAN"</item>
+<item>"ডাটা সংযোগটো"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"স্বয়ংক্ৰিয় ছিনক্ৰ\'নাইজেছন"</item>
+<item>"Wi-Fi হটস্পট"</item>
+<item>"স্পৰ্শ কৰিলে কম্পন হ\'ব আৰু মনত পেলাই দিব"</item>
+<item>"বিমান ম\'ড"</item>
+<item>"ভাইব্ৰেশ্যন"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"পৰিবৰ্তন কৰিব?"</item>
+<item>"স্বয়ংক্ৰিয় চিংক অফ কৰিলে কিছুমান এপ্পে স্বয়ংক্ৰিয়ভাবে চিংক কৰিবলৈ ব্যৰ্থ হ\'ব, সলনি কৰিব নে?"</item>
+</string-array>
+</resources>

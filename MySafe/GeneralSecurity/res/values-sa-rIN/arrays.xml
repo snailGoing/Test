@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"पटलस्य शुभ्रता"</item>
+<item>"स्थिरं पटलम्"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"यदा स्पर्शः भवति, तदा कम्पतु, स्मारयतु च"</item>
+<item>"कम्पनम्"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"पटलस्य शुभ्रता"</item>
+<item>"स्थिरं पटलम्"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"यदा स्पर्शः भवति, तदा कम्पतु, स्मारयतु च"</item>
+<item>"दत्तांशसंयोजनम्"</item>
+<item>"स्वतः समालकलनम्"</item>
+<item>"कम्पनम्"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"पटलस्य शुभ्रता"</item>
+<item>"स्थिरं पटलम्"</item>
+<item>"WLAN"</item>
+<item>"दत्तांशसंयोजनम्"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"स्वतः समालकलनम्"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"यदा स्पर्शः भवति, तदा कम्पतु, स्मारयतु च"</item>
+<item>"वायुयान रीतिः।"</item>
+<item>"कम्पनम्"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"स्थानान्तरति?"</item>
+<item>"स्वतः समाकलने पिधाने कृते सति केचन अनुप्रयोगाः स्वतः दत्तांशसमाकलनं, स्थानान्तरं च कर्तुं विफलाः भविष्यन्ति?"</item>
+</string-array>
+</resources>

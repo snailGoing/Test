@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ଉଜ୍ଜଳତା ପ୍ରଦର୍ଶନ କରନ୍ତୁ"</item>
+<item>"ଷ୍ଟାଣ୍ଡ ବାଏ ସ୍କ୍ରିନ୍"</item>
+<item>"ୱାଇ-ଫାଇ"</item>
+<item>"GPS"</item>
+<item>"ବ୍ଲୁଟୁଥ"</item>
+<item>"ଟଚ୍ କଲେ ଭାଇବ୍ରେଟ୍ ହେବ ଏବଂ ମନେ ପକାଇ ଦେବ"</item>
+<item>"କମ୍ପନ"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ଉଜ୍ଜଳତା ପ୍ରଦର୍ଶନ କରନ୍ତୁ"</item>
+<item>"ଷ୍ଟାଣ୍ଡ ବାଏ ସ୍କ୍ରିନ୍"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ବ୍ଲୁଟୁଥ"</item>
+<item>"Wi-Fi ହଟସ୍ପଟ୍"</item>
+<item>"ଟଚ୍ କଲେ ଭାଇବ୍ରେଟ୍ ହେବ ଏବଂ ମନେ ପକାଇ ଦେବ"</item>
+<item>"ମୋବାଇଲ୍‍ ଡାଟା"</item>
+<item>"ଅଟୋମେଟିକ୍ ସିଙ୍କ୍ରୋନାଇଜେସନ୍"</item>
+<item>"କମ୍ପନ"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ଉଜ୍ଜଳତା ପ୍ରଦର୍ଶନ କରନ୍ତୁ"</item>
+<item>"ଷ୍ଟାଣ୍ଡ ବାଏ ସ୍କ୍ରିନ୍"</item>
+<item>"WLAN"</item>
+<item>"ମୋବାଇଲ୍‍ ଡାଟା"</item>
+<item>"GPS"</item>
+<item>"ବ୍ଲୁଟୁଥ"</item>
+<item>"ଅଟୋମେଟିକ୍ ସିଙ୍କ୍ରୋନାଇଜେସନ୍"</item>
+<item>"Wi-Fi ହଟସ୍ପଟ୍"</item>
+<item>"ଟଚ୍ କଲେ ଭାଇବ୍ରେଟ୍ ହେବ ଏବଂ ମନେ ପକାଇ ଦେବ"</item>
+<item>"ଏଇରପ୍ଲେଇନ ରୀତି"</item>
+<item>"କମ୍ପନ"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ସ୍ୱିଚ୍ ହେବ?"</item>
+<item>"ଅଟୋମେଟିକ୍ ସିଙ୍କ୍ ବନ୍ଦ କଲେ କେତେକ ଆପ୍ ଅଟୋମେଟିକ୍ ଡାଟା ସିଙ୍କ୍ କରିବାରେ ବିଫଳ ହେବେ, ସ୍ୱିଚ୍ କରିବେ କି?"</item>
+</string-array>
+</resources>

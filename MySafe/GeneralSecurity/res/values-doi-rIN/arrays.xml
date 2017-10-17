@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"डिस्पले चमकीलापन।"</item>
+<item>"स्टैंडबाय स्क्रीन"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"टच करने पर वाइब्रेशन ते रिमांइड"</item>
+<item>"वाइब्रेशन"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"डिस्पले चमकीलापन।"</item>
+<item>"स्टैंडबाय स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"Wi-Fi हाटस्पाट"</item>
+<item>"टच करने पर वाइब्रेशन ते रिमांइड"</item>
+<item>"डेटा कनेक्शन"</item>
+<item>"अपने-आप सिंक्रनाइज़ेशन"</item>
+<item>"वाइब्रेशन"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"डिस्पले चमकीलापन।"</item>
+<item>"स्टैंडबाय स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"डेटा कनेक्शन"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"अपने-आप सिंक्रनाइज़ेशन"</item>
+<item>"Wi-Fi हाटस्पाट"</item>
+<item>"टच करने पर वाइब्रेशन ते रिमांइड"</item>
+<item>"ब्हाईज्हाज मोड"</item>
+<item>"वाइब्रेशन"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"स्विच करो?"</item>
+<item>"अपने-आप सिंक बंद करने कन्नै किश ऐप्स डेटा गी अपने-आप सिंक करने च असफल होई जाङन, स्विच करो?"</item>
+</string-array>
+</resources>

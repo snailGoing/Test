@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"திரையின் வெளிச்சம்"</item>
+<item>"ஸ்டேன்ட்பை திரை"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>புளூடூத்</item>
+<item>"அதிர்வு மற்றும் தொடும் போது நினைவூட்டவும்"</item>
+<item>அதிர்வு</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"திரையின் வெளிச்சம்"</item>
+<item>"ஸ்டேன்ட்பை திரை"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>புளூடூத்</item>
+<item>"Wi-fi ஹாட்ஸ்பாட்"</item>
+<item>"அதிர்வு மற்றும் தொடும் போது நினைவூட்டவும்"</item>
+<item>"தரவு இணைப்பு"</item>
+<item>"தானியங்கு ஒத்திசைவு"</item>
+<item>அதிர்வு</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"திரையின் வெளிச்சம்"</item>
+<item>"ஸ்டேன்ட்பை திரை"</item>
+<item>"WLAN"</item>
+<item>"தரவு இணைப்பு"</item>
+<item>"GPS"</item>
+<item>புளூடூத்</item>
+<item>"தானியங்கு ஒத்திசைவு"</item>
+<item>"Wi-fi ஹாட்ஸ்பாட்"</item>
+<item>"அதிர்வு மற்றும் தொடும் போது நினைவூட்டவும்"</item>
+<item>ஆகாய விமான மோட்</item>
+<item>அதிர்வு</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"மாற்றவா?"</item>
+<item>"தானியங்கு ஒத்திசைவை ஆஃப் பண்ணும்போது சில ஆப்ஸ்கள் தானாகவே தரவை ஒத்திசைவு செய்ய ஆரம்பிக்கவும், மாற்றவா?"</item>
+</string-array>
+</resources>

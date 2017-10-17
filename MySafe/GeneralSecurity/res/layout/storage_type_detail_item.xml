@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="8dp">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
+        android:src="@drawable/file_folder"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/file_type_drawable_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/file_type_name"
+            android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/file_type_size"
+            android:text="@string/file_type_size"
+            android:textAppearance="@android:style/TextAppearance.Material.Body1"
+            android:textColor="?android:attr/textColorSecondary"
+            android:layout_below="@+id/file_type_drawable_name"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/file_cleaned"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textAppearance="@android:style/TextAppearance.Material.Body1"
+            android:textColor="?android:attr/textColorSecondary"
+            android:layout_below="@+id/file_type_drawable_name"
+            android:layout_toEndOf="@+id/file_type_size"/>
+    </RelativeLayout>
+
+    <CheckBox
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:scaleType="centerCrop"
+        android:layout_marginRight="10dp"
+        android:id="@+id/file_clean_isChecked"
+        android:button="@null"
+        android:background="@drawable/file_clean_ischecked"
+        android:layout_gravity="center|right"
+        android:gravity="center"/>
+</LinearLayout>

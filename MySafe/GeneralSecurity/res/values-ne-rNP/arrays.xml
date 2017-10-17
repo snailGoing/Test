@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"स्क्रिनको चम्किलोपना"</item>
+<item>"स्ट्यान्डबाइ स्क्रिन"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"ब्लुटूथ"</item>
+<item>"छुँदा कम्पन गर्ने र सम्झाउने"</item>
+<item>"कम्पन"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"स्क्रिनको चम्किलोपना"</item>
+<item>"स्ट्यान्डबाइ स्क्रिन"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्लुटूथ"</item>
+<item>"Wi-Fi हटस्पट"</item>
+<item>"छुँदा कम्पन गर्ने र सम्झाउने"</item>
+<item>"डेटा जडान"</item>
+<item>"स्वचालित सिन्क्रोनाइजेशन"</item>
+<item>"कम्पन"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"स्क्रिनको चम्किलोपना"</item>
+<item>"स्ट्यान्डबाइ स्क्रिन"</item>
+<item>"WLAN"</item>
+<item>"डेटा जडान"</item>
+<item>"GPS"</item>
+<item>"ब्लुटूथ"</item>
+<item>"स्वचालित सिन्क्रोनाइजेशन"</item>
+<item>"Wi-Fi हटस्पट"</item>
+<item>"छुँदा कम्पन गर्ने र सम्झाउने"</item>
+<item>"हवाइजहाज मोड"</item>
+<item>"कम्पन"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"बदल्ने हो?"</item>
+<item>"स्वतः सिंकलाई अफ गर्नाले केही एप्स स्वतः डेटा सिंक गर्न असफल हुनेछन्, बदल्ने हो?"</item>
+</string-array>
+</resources>

@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="pref_data_cycle_entries">
+    <item>@string/pref_data_cycle_default</item>
+    <item>@string/data_cycle_week</item>
+    <item>@string/data_cycle_day</item>
+</string-array>
+
+<string-array name="pref_data_cycle_entry_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+
+<string-array name="flow_rank">
+    <item>@string/network_sorderbydata</item>
+    <item>@string/network_sorderbywlan</item>
+</string-array>
+</resources>

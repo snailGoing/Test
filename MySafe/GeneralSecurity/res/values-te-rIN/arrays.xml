@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"స్క్రీన్ యొక్క బ్రైట్‌నెస్"</item>
+<item>"స్టాండ్‌బై స్క్రీన్"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"బ్లూటూత్"</item>
+<item>"తాకినప్పుడు వైబ్రేషన్ ఇచ్చి జ్ఞాపకం చేయి"</item>
+<item>కంపనము</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"స్క్రీన్ యొక్క బ్రైట్‌నెస్"</item>
+<item>"స్టాండ్‌బై స్క్రీన్"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"బ్లూటూత్"</item>
+<item>"Wi-Fi హాట్ స్పాట్"</item>
+<item>"తాకినప్పుడు వైబ్రేషన్ ఇచ్చి జ్ఞాపకం చేయి"</item>
+<item>"డేటా కనెక్షన్"</item>
+<item>"స్వయంచాలక సింక్రనైజేషన్"</item>
+<item>కంపనము</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"స్క్రీన్ యొక్క బ్రైట్‌నెస్"</item>
+<item>"స్టాండ్‌బై స్క్రీన్"</item>
+<item>"WLAN"</item>
+<item>"డేటా కనెక్షన్"</item>
+<item>"GPS"</item>
+<item>"బ్లూటూత్"</item>
+<item>"స్వయంచాలక సింక్రనైజేషన్"</item>
+<item>"Wi-Fi హాట్ స్పాట్"</item>
+<item>"తాకినప్పుడు వైబ్రేషన్ ఇచ్చి జ్ఞాపకం చేయి"</item>
+<item>విమానం మోడ్</item>
+<item>కంపనము</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"మార్చాలా?"</item>
+<item>"ఆటోమేటిక్ సింక్‌ను ఆఫ్ చేయడం వలన కొన్ని యాప్స్ డేటాను ఆటోమేటిగ్గా సింక్ చేయడంలో విఫలమవుతాయి, మార్చమంటారా?"</item>
+</string-array>
+</resources>

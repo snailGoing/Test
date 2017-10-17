@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>" یمء سکرینچ چمک"</item>
+<item>" سٹینڈ باۓ سکرین"</item>
+<item>Wi-Fi</item>
+<item>"GPS"</item>
+<item>بلوٹوتھ</item>
+<item>" تھار کریو تء یاد پایو یلء زیر کرو"</item>
+<item>وايبریٹ</item>
+</string-array>
+<string-array name="title_for_long">
+<item>" یمء سکرینچ چمک"</item>
+<item>" سٹینڈ باۓ سکرین"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>بلوٹوتھ</item>
+<item>Wi-Fi ہاٹ سپاٹ</item>
+<item>" تھار کریو تء یاد پایو یلء زیر کرو"</item>
+<item>" یء ڈیٹا کنکشن"</item>
+<item>" پاین پانۓ سنکرونایزیشن"</item>
+<item>وايبریٹ</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>" یمء سکرینچ چمک"</item>
+<item>" سٹینڈ باۓ سکرین"</item>
+<item>"WLAN"</item>
+<item>" یء ڈیٹا کنکشن"</item>
+<item>"GPS"</item>
+<item>بلوٹوتھ</item>
+<item>" پاین پانۓ سنکرونایزیشن"</item>
+<item>Wi-Fi ہاٹ سپاٹ</item>
+<item>" تھار کریو تء یاد پایو یلء زیر کرو"</item>
+<item>"آیرپلین موڈ"</item>
+<item>وايبریٹ</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>" فیرون؟"</item>
+<item>" پاین پانۓ سنکرونایزیشن بند کرن ہیکء کہنژن ایپن ناکام کریتھ پاین پانۓ ڈیٹا سنکرونایز کرنء نش، فیریو؟"</item>
+</string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"स्क्रिन ची चकाकी"</item>
+<item>"स्टँडबाय स्क्रिन"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"ब्ल्यूटूथ"</item>
+<item>"व्हायब्रेशन आणि स्पर्श केल्यावर आठवण करुन देणे"</item>
+<item>"व्हायब्रेशन"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"स्क्रिन ची चकाकी"</item>
+<item>"स्टँडबाय स्क्रिन"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्ल्यूटूथ"</item>
+<item>"WI-FI हॉट स्पॉट"</item>
+<item>"व्हायब्रेशन आणि स्पर्श केल्यावर आठवण करुन देणे"</item>
+<item>"डाटा कनेक्शन"</item>
+<item>"ऍटोमॅटीक सिंक्रोनायझेशन"</item>
+<item>"व्हायब्रेशन"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"स्क्रिन ची चकाकी"</item>
+<item>"स्टँडबाय स्क्रिन"</item>
+<item>"WLAN"</item>
+<item>"डाटा कनेक्शन"</item>
+<item>"GPS"</item>
+<item>"ब्ल्यूटूथ"</item>
+<item>"ऍटोमॅटीक सिंक्रोनायझेशन"</item>
+<item>"WI-FI हॉट स्पॉट"</item>
+<item>"व्हायब्रेशन आणि स्पर्श केल्यावर आठवण करुन देणे"</item>
+<item>"एअरप्लेन मोड"</item>
+<item>"व्हायब्रेशन"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"स्विच?"</item>
+<item>"आपोआप सिंक करणे बंद केल्यावर काही ऍप आपोआप माहिती सिंक करण्यास असमर्थ असतील, स्विच करायचे का?"</item>
+</string-array>
+</resources>

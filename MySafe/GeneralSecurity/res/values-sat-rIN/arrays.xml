@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"स्क्रीन रेयाक् मारसाल "</item>
+<item>"तेंगोजोगाव स्क्रीन </item>
+<item>"वाई-फाई  "</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"तारको आर जाक्"</item>
+<item>"तारकोतेत्"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"स्क्रीन रेयाक् मारसाल "</item>
+<item>"तेंगोजोगाव स्क्रीन </item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"वाई-फाई हॉटस्पॉट"</item>
+<item>"तारको आर जाक्"</item>
+<item>"डेटा जोनोड़ाव"</item>
+<item>"आच् लेकाते सिंक्रनाइजेशन "</item>
+<item>"तारकोतेत्"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"स्क्रीन रेयाक् मारसाल "</item>
+<item>"तेंगोजोगाव स्क्रीन </item>
+<item>"WLAN"</item>
+<item>"डेटा जोनोड़ाव"</item>
+<item>"GPS"</item>
+<item>"ब्लूटुथ"</item>
+<item>"आच् लेकाते सिंक्रनाइजेशन "</item>
+<item>"वाई-फाई हॉटस्पॉट"</item>
+<item>"तारको आर जाक्"</item>
+<item>"एयरफोन मोड"</item>
+<item>"तारकोतेत्"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"चालूम मे?"</item>
+<item>"आच् जोगाजोगबोन्द लागित् ते किछू गान डेटा को आच् लेकाते जोगाजोग लागित् रे बाङ गान दाड़ेयाक्आ?"</item>
+</string-array>
+</resources>

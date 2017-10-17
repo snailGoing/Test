@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"দিসপ্লে লংবা"</item>
+<item>"স্টেন্দবাই স্ক্রীন"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"শোকপা মতমদা ভাইব্রেসন তৌ অমসুং হন্না নিংশিংঙু"</item>
+<item>"হাইবা"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"দিসপ্লে লংবা"</item>
+<item>"স্টেন্দবাই স্ক্রীন"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"Wi-Fi হোতস্পোত"</item>
+<item>"শোকপা মতমদা ভাইব্রেসন তৌ অমসুং হন্না নিংশিংঙু"</item>
+<item>"দাতা শম্নবা অদু"</item>
+<item>"মশা মথন্তা সিনক্রোনাইজ তৌবা"</item>
+<item>"হাইবা"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"দিসপ্লে লংবা"</item>
+<item>"স্টেন্দবাই স্ক্রীন"</item>
+<item>"WLAN"</item>
+<item>"দাতা শম্নবা অদু"</item>
+<item>"GPS"</item>
+<item>"ব্লুটুথ"</item>
+<item>"মশা মথন্তা সিনক্রোনাইজ তৌবা"</item>
+<item>"Wi-Fi হোতস্পোত"</item>
+<item>"শোকপা মতমদা ভাইব্রেসন তৌ অমসুং হন্না নিংশিংঙু"</item>
+<item>"এয়রপ্লেন মোদ"</item>
+<item>"হাইবা"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"স্বিচ?"</item>
+<item>"মশা মথন্তা সিঙ্ক তৌবা মুথৎপনা এপশীং খরা মশা মথন্তা দাতা সিঙ্ক তৌবা ঙমহল্লোই,ওনগদ্রা?"</item>
+</string-array>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/black"
+        android:paddingTop="10dp"
+        android:layout_weight="3">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/internal_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:ellipsize="none"
+                android:gravity="right|bottom"
+                android:singleLine="true"
+                android:text="@string/storage_size"
+                android:textColor="@android:color/white"
+                android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+                android:fontFamily="sans-serif-light"
+                android:textSize="64sp" />
+
+            <TextView
+                android:id="@+id/score_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:ellipsize="none"
+                android:gravity="left|bottom"
+                android:singleLine="true"
+                android:text="@string/score_storage_label"
+                android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+                android:fontFamily="sans-serif-light"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/internal_background"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:singleLine="true"
+            android:gravity="center"
+            android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+            android:textColor= "@android:color/white"
+            android:textSize="16sp"/>
+
+        <Button
+            android:id="@+id/internal_bt"
+            android:layout_width="160dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="32dp"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:background="@drawable/shape"
+            android:text="@string/start_scan_button"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/internal_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="top|center"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+</LinearLayout>

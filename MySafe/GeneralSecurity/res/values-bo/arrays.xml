@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"འཆར་ཡོལ་དཀར་ཚད།"</item>
+<item>"འཆར་ཡོལ་ཏུ་གྲབས།"</item>
+<item>WLAN</item>
+<item>"GPS"</item>
+<item>"སོ་སྔོན་པོ།"</item>
+<item>"འཆར་ཡོལ་ལ་ཐུག་སྐབས་འདར་འགུལ་དང་དྲན་སྐུལ།"</item>
+<item>འདར་འགུལ།</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"འཆར་ཡོལ་དཀར་ཚད།"</item>
+<item>"འཆར་ཡོལ་ཏུ་གྲབས།"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"སོ་སྔོན་པོ།"</item>
+<item>Wi-Fiཚ་གནས།</item>
+<item>"འཆར་ཡོལ་ལ་ཐུག་སྐབས་འདར་འགུལ་དང་དྲན་སྐུལ།"</item>
+<item>"གནས་སྤོ་དན་གྲངས།"</item>
+<item>" རང་འགུལ་འགྲོས་བསྟུན།"</item>
+<item>འདར་འགུལ།</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"འཆར་ཡོལ་དཀར་ཚད།"</item>
+<item>"འཆར་ཡོལ་ཏུ་གྲབས།"</item>
+<item>"WLAN"</item>
+<item>"གནས་སྤོ་དན་གྲངས།"</item>
+<item>"GPS"</item>
+<item>"སོ་སྔོན་པོ།"</item>
+<item>" རང་འགུལ་འགྲོས་བསྟུན།"</item>
+<item>Wi-Fiཚ་གནས།</item>
+<item>"འཆར་ཡོལ་ལ་ཐུག་སྐབས་འདར་འགུལ་དང་དྲན་སྐུལ།"</item>
+<item>"འཕུར་སྐྱོད་རྣམ་པ།"</item>
+<item>འདར་འགུལ།</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"བརྗེ་སྒྱུར་བྱེད་རྒྱུ་ཡིན་ནམ།"</item>
+<item>"རང་འགུལ་འགྲོས་བསྟུན་གྱི་སྒོ་སྟེམ་པས་ན་ཉེར་སྤྱོད་འགའི་དན་གྲངས་རང་འགུལ་འགྲོསབྱེད་མི་ཐུབ། བརྗེ་སྒྱུར་བྱེད་རྒྱུ་ཡིན་ནམ།"</item>
+</string-array>
+</resources>

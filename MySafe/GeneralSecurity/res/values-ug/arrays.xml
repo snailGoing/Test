@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ئېكران يۇرۇقلىقى"</item>
+<item>"ساقلاۋاتقان ئېكران"</item>
+<item>"سىمسىز تور"</item>
+<item>"GPS"</item>
+<item>"يېشىل چىش"</item>
+<item>"چېكىلگەندە تىترەش ۋە ئەسكەرتىش"</item>
+<item>تىتىرەش</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ئېكران يۇرۇقلىقى"</item>
+<item>"ساقلاۋاتقان ئېكران"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"يېشىل چىش"</item>
+<item>“Wi-Fi قىززىق نۇقتىسى”</item>
+<item>"چېكىلگەندە تىترەش ۋە ئەسكەرتىش"</item>
+<item>"سانلىق مەلۇمات ئۇلىنشىى"</item>
+<item>"ئاپتوماتىك ماسقەدەملەشتۈرۈش"</item>
+<item>تىتىرەش</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ئېكران يۇرۇقلىقى"</item>
+<item>"ساقلاۋاتقان ئېكران"</item>
+<item>"WLAN"</item>
+<item>"سانلىق مەلۇمات ئۇلىنشىى"</item>
+<item>"GPS"</item>
+<item>"يېشىل چىش"</item>
+<item>"ئاپتوماتىك ماسقەدەملەشتۈرۈش"</item>
+<item>“Wi-Fi قىززىق نۇقتىسى”</item>
+<item>"چېكىلگەندە تىترەش ۋە ئەسكەرتىش"</item>
+<item>ئايرۇپىلان سىخىمىسى</item>
+<item>تىتىرەش</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ئالماشتۇرامسىز؟"</item>
+<item>"ئاپتوماتىك ماسقەدەملەشتۈرۈشنى ئېتىۋەتكەندە بەزى ئەپلەر ئاپتوماتىك ھالدا ماسقەدەملەشتۈرۈش ئېلىپ بارالمايدۇ، ئۆزگەرتەمسىز؟"</item>
+</string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ಪರದೆಯ ಹೊಳಪು"</item>
+<item>"ಪ್ರತ್ಯೇಕ ಪರದೆ"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"ಬ್ಲೂಟೂತ್"</item>
+<item>"ಕಂಪನ ಮತ್ತು ನೆನಪಿಸಿ ಸ್ಪರ್ಶವಾದಾಗ"</item>
+<item>"ಕಂಪನ"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ಪರದೆಯ ಹೊಳಪು"</item>
+<item>"ಪ್ರತ್ಯೇಕ ಪರದೆ"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ಬ್ಲೂಟೂತ್"</item>
+<item>"Wi-Fi ಹಾಟ್ಸ್ಪಾಟ್"</item>
+<item>"ಕಂಪನ ಮತ್ತು ನೆನಪಿಸಿ ಸ್ಪರ್ಶವಾದಾಗ"</item>
+<item>"ಡೇಟಾ ಸಂಪರ್ಕ"</item>
+<item>"ಸ್ವಯಂಚಾಲಿತ ಸಿಂಕ್ರೊನೈಸೇಶನ್"</item>
+<item>"ಕಂಪನ"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ಪರದೆಯ ಹೊಳಪು"</item>
+<item>"ಪ್ರತ್ಯೇಕ ಪರದೆ"</item>
+<item>"WLAN"</item>
+<item>"ಡೇಟಾ ಸಂಪರ್ಕ"</item>
+<item>"GPS"</item>
+<item>"ಬ್ಲೂಟೂತ್"</item>
+<item>"ಸ್ವಯಂಚಾಲಿತ ಸಿಂಕ್ರೊನೈಸೇಶನ್"</item>
+<item>"Wi-Fi ಹಾಟ್ಸ್ಪಾಟ್"</item>
+<item>"ಕಂಪನ ಮತ್ತು ನೆನಪಿಸಿ ಸ್ಪರ್ಶವಾದಾಗ"</item>
+<item>"ವಿಮಾನ ಮೋಡ್"</item>
+<item>"ಕಂಪನ"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ಸ್ವಿಚ್?"</item>
+<item>"ಸ್ವಯಂಚಾಲಿತ ಸಿಂಕ್ ಅನ್ನು ಆಫ್ ಮಾಡಿದರೆ,ಕೆಲವು ಆಪ್ಸ್ ವಿಫಲಗೊಳ್ಳುತ್ತವೆ,ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೇಟಾ ಸಿಂಕ್ ಮಾಡಲು, ಸ್ವಿಚ್ ಮಾಡಬೇಕೇ?"</item>
+</string-array>
+</resources>

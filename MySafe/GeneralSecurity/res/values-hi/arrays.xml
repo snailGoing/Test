@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"स्क्रीन की चमक"</item>
+<item>"स्टैंडबाय स्क्रीन"</item>
+<item>"वाई-फ़ाई"</item>
+<item>"GPS"</item>
+<item>"ब्लूटूथ"</item>
+<item>"छूने पर वाइब्रेशन एवं रिमाइंड"</item>
+<item>वाइब्रेशन</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"स्क्रीन की चमक"</item>
+<item>"स्टैंडबाय स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्लूटूथ"</item>
+<item>"Wi-Fi हॉटस्पॉट"</item>
+<item>"छूने पर वाइब्रेशन एवं रिमाइंड"</item>
+<item>"डेटा कनेक्शन"</item>
+<item>"स्वचलित सिंक्रोनाइज़ेशन"</item>
+<item>वाइब्रेशन</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"स्क्रीन की चमक"</item>
+<item>"स्टैंडबाय स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"डेटा कनेक्शन"</item>
+<item>"GPS"</item>
+<item>"ब्लूटूथ"</item>
+<item>"स्वचलित सिंक्रोनाइज़ेशन"</item>
+<item>"Wi-Fi हॉटस्पॉट"</item>
+<item>"छूने पर वाइब्रेशन एवं रिमाइंड"</item>
+<item>"हवाई जहाज मोड"</item>
+<item>वाइब्रेशन</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"बदलना है?"</item>
+<item>"स्वचलित सिंक को बंद करने से कुछ ऐप्स अपने आप सिंक डेटा फेल कर देंगे, क्या बदलना है?"</item>
+</string-array>
+</resources>

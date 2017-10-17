@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"സ്ക്രീനിന്‍റെ ബ്രൈറ്റ്നെസ്സ്"</item>
+<item>"സ്റ്റാന്‍ഡ്ബൈ സ്ക്രീന്‍"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"ബ്ലൂടൂത്ത്"</item>
+<item>"സ്പര്‍ശിക്കുമ്പോള്‍ വൈബ്രേറ്റ്‌ചെയ്യുകയും ഓര്‍മ്മിപ്പിക്കുകയും ചെയ്യുക"</item>
+<item>"കമ്പനം"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"സ്ക്രീനിന്‍റെ ബ്രൈറ്റ്നെസ്സ്"</item>
+<item>"സ്റ്റാന്‍ഡ്ബൈ സ്ക്രീന്‍"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ബ്ലൂടൂത്ത്"</item>
+<item>"വൈഫൈ ഹോട്ട്സ്പോട്ട്"</item>
+<item>"സ്പര്‍ശിക്കുമ്പോള്‍ വൈബ്രേറ്റ്‌ചെയ്യുകയും ഓര്‍മ്മിപ്പിക്കുകയും ചെയ്യുക"</item>
+<item>"ഡാറ്റാ കണക്ഷന്‍"</item>
+<item>"ഒട്ടോമാറ്റിക് സിന്‍ക്രനൈസേഷന്‍"</item>
+<item>"കമ്പനം"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"സ്ക്രീനിന്‍റെ ബ്രൈറ്റ്നെസ്സ്"</item>
+<item>"സ്റ്റാന്‍ഡ്ബൈ സ്ക്രീന്‍"</item>
+<item>"WLAN"</item>
+<item>"ഡാറ്റാ കണക്ഷന്‍"</item>
+<item>"GPS"</item>
+<item>"ബ്ലൂടൂത്ത്"</item>
+<item>"ഒട്ടോമാറ്റിക് സിന്‍ക്രനൈസേഷന്‍"</item>
+<item>"വൈഫൈ ഹോട്ട്സ്പോട്ട്"</item>
+<item>"സ്പര്‍ശിക്കുമ്പോള്‍ വൈബ്രേറ്റ്‌ചെയ്യുകയും ഓര്‍മ്മിപ്പിക്കുകയും ചെയ്യുക"</item>
+<item>"എയര്‍ പ്ലെയിന്‍ മോഡ്"</item>
+<item>"കമ്പനം"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"മാറ്റട്ടെ?"</item>
+<item>"ഒട്ടോമാറ്റിക് സിന്‍ക് ഓഫ് ചെയ്യുന്നത് ചില ആപ്പുകള്‍ ഒട്ടോമാറ്റിക് ആയി സിന്‍ക് ആകുന്നത് പരാജയമാകും, മാറ്റട്ടെ?"</item>
+</string-array>
+</resources>

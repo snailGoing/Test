@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"સ્ક્રીનનું તેજ"</item>
+<item>"સ્ટેન્ડબાય સ્ક્રીન"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"બ્લ્યૂટૂથ"</item>
+<item>"જ્યારે ટચ કરવામાં આવે ત્યારે કંપન અને યાદ અપાવો"</item>
+<item>"વાઇબ્રેશન"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"સ્ક્રીનનું તેજ"</item>
+<item>"સ્ટેન્ડબાય સ્ક્રીન"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"બ્લ્યૂટૂથ"</item>
+<item>"Wi-Fi હોટસ્પોટ"</item>
+<item>"જ્યારે ટચ કરવામાં આવે ત્યારે કંપન અને યાદ અપાવો"</item>
+<item>"ડેટા કનેક્શન"</item>
+<item>"સ્વચાલિત સમકાલીકરણ"</item>
+<item>"વાઇબ્રેશન"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"સ્ક્રીનનું તેજ"</item>
+<item>"સ્ટેન્ડબાય સ્ક્રીન"</item>
+<item>"WLAN"</item>
+<item>"ડેટા કનેક્શન"</item>
+<item>"GPS"</item>
+<item>"બ્લ્યૂટૂથ"</item>
+<item>"સ્વચાલિત સમકાલીકરણ"</item>
+<item>"Wi-Fi હોટસ્પોટ"</item>
+<item>"જ્યારે ટચ કરવામાં આવે ત્યારે કંપન અને યાદ અપાવો"</item>
+<item>એરપ્લેન મોડ</item>
+<item>"વાઇબ્રેશન"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ફેરફાર?"</item>
+<item>"આપોઆપ સમન્વયન બંધ કરી દેવાથી કેટલીક એપ્લિકેશન્સ આપમેળે ડેટાને સમન્વયિત કરવામા નિષ્ફળ જશે, એવું કરવું છે?"</item>
+</string-array>
+</resources>

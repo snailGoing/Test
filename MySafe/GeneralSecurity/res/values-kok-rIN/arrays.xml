@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"डिस्प्ले ब्रायटनेस"</item>
+<item>"स्टॅण्डबाय स्क्रीन"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"स्पर्श करता तेन्ना कंपन आनी याद कर"</item>
+<item>"व्हायब्रेशन"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"डिस्प्ले ब्रायटनेस"</item>
+<item>"स्टॅण्डबाय स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi हॉटस्पॉट"</item>
+<item>"स्पर्श करता तेन्ना कंपन आनी याद कर"</item>
+<item>"डाटा जोडणी"</item>
+<item>"आपसूक समक्रमीत"</item>
+<item>"व्हायब्रेशन"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"डिस्प्ले ब्रायटनेस"</item>
+<item>"स्टॅण्डबाय स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"डाटा जोडणी"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"आपसूक समक्रमीत"</item>
+<item>"Wi-Fi हॉटस्पॉट"</item>
+<item>"स्पर्श करता तेन्ना कंपन आनी याद कर"</item>
+<item>"एअरप्लेन स्थिती"</item>
+<item>"व्हायब्रेशन"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"स्वीच?"</item>
+<item>"आपसूक समक्रमीत बंद केल्यार कांय ॲप आपसूक डाटा समक्रमीत जावंक अपेशी थारतले, स्वीच?"</item>
+</string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"اسکرین کی چمک"</item>
+<item>"اسٹینڈبائی اسکرین"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"بلوٹوتھ"</item>
+<item>"جب چھوا جائے تو وائبریشن اور یادہانی"</item>
+<item>تھرتھراہٹ</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"اسکرین کی چمک"</item>
+<item>"اسٹینڈبائی اسکرین"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"بلوٹوتھ"</item>
+<item>"Wi-Fi ہاٹ اسپاٹ"</item>
+<item>"جب چھوا جائے تو وائبریشن اور یادہانی"</item>
+<item>"ڈیٹا کنکشن"</item>
+<item>"خود کار ہم وقت سازی"</item>
+<item>تھرتھراہٹ</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"اسکرین کی چمک"</item>
+<item>"اسٹینڈبائی اسکرین"</item>
+<item>"WLAN"</item>
+<item>"ڈیٹا کنکشن"</item>
+<item>"GPS"</item>
+<item>"بلوٹوتھ"</item>
+<item>"خود کار ہم وقت سازی"</item>
+<item>"Wi-Fi ہاٹ اسپاٹ"</item>
+<item>"جب چھوا جائے تو وائبریشن اور یادہانی"</item>
+<item>"ہوائی جہاز وضع"</item>
+<item>تھرتھراہٹ</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"تبدیل کریں؟"</item>
+<item>"خود کار ہم وقت سازی کو آف کرنا کچھ ایپس کے ڈیٹا کی ہم وقت سازی کرنے کا ناکام کر دے گا، سوئچ کریں؟"</item>
+</string-array>
+</resources>

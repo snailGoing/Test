@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>""देखबैय बला क चमक"</item>
+<item>"ठाढ स्क्रीन"</item>
+<item>"वाई-फाई"</item>
+<item>"GPS"</item>
+<item>"ब्लूटूथ"</item>
+<item>"कंपन्न आ याददिलाऊ जहन छुबि"</item>
+<item>"झनझनेनैय"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>""देखबैय बला क चमक"</item>
+<item>"ठाढ स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ब्लूटूथ"</item>
+<item>"वाई-फाई हाटस्पाट"</item>
+<item>"कंपन्न आ याददिलाऊ जहन छुबि"</item>
+<item>"डाटाक जोड़"</item>
+<item>"स्वतह वर्णात्मकता"</item>
+<item>"झनझनेनैय"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>""देखबैय बला क चमक"</item>
+<item>"ठाढ स्क्रीन"</item>
+<item>"WLAN"</item>
+<item>"डाटाक जोड़"</item>
+<item>"GPS"</item>
+<item>"ब्लूटूथ"</item>
+<item>"स्वतह वर्णात्मकता"</item>
+<item>"वाई-फाई हाटस्पाट"</item>
+<item>"कंपन्न आ याददिलाऊ जहन छुबि"</item>
+<item>"एअरप्लेन मोड में अछि।"</item>
+<item>"झनझनेनैय"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"बदलू?"</item>
+<item>"स्वतह वर्णात्मकता केर बंद कयलासँ किछु एप केर स्वतह डाटाक वर्णात्मकता केर असफल बनाओत, बदलू?"</item>
+</string-array>
+</resources>
